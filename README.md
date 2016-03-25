@@ -11,11 +11,14 @@ Gytautas: Backend Developer
 
 Wilson: Frontend Developer
 
-Charts
+Use case diagram
 ![Alt text](https://github.com/mahokyin/CSS360-UWB-Find-It/blob/master/Charts/Use%20case.jpg "Use case diagram")
 
+Admin Flow Chart
 ![Alt text](https://github.com/mahokyin/CSS360-UWB-Find-It/blob/master/Charts/AdminFlowChart.jpg "Admin Flow Chart")
 
+Student Flow Chart
 ![Alt text](https://github.com/mahokyin/CSS360-UWB-Find-It/blob/master/Charts/CustomerFlowChart.jpg "Student Flow Chart")
 
+UML diagram
 ![Alt text](https://github.com/mahokyin/CSS360-UWB-Find-It/blob/master/Charts/UML.jpg "UML diagram")
